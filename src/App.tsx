@@ -13,9 +13,9 @@ const games: Game[] = [
   },
   {
     title: 'Count n Shoot',
-    image: '/images/Oryxys-Thumbnail.png',
+    image: '/images/Count-N-Shoot.png',
     description: 'A Math shooting game',
-    itchUrl: 'https://redfrogu.itch.io/oryxys'
+    itchUrl: 'https://redfrogu.itch.io/count-n-shoot'
   }
 ]
 
